@@ -1,0 +1,116 @@
+.profile-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  flex-direction: column;
+  margin-left: 2%;
+  border-radius: 12px;
+  border-style: solid;
+  border-color: green;
+  background-color: honeydew;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 40%;
+}
+
+.profile-image {
+  width: 190px;
+  height: 190px;
+  margin-right: 225px;
+  border-radius: 12px;
+  border-color: green;
+  border-style: solid;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  align-items: center;
+  justify-content: center;
+}
+
+p,
+p,
+p,
+p,
+p {
+  font-weight: bold;
+  border-style: 4px;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 2px solid darkgreen;
+  width: 10rem;
+  max-width: 100%;
+}
+
+.friends {
+  max-width: 150%;
+  font-weight: bold;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 2px solid darkgreen;
+  width: 10rem;
+
+
+}
+
+.friends {
+  margin-right: 27%;
+
+}
+
+.profilehere {
+  color: #3a3a3a;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: green;
+  background-color: honeydew;
+  margin-left: 2%;
+  margin-top: 5%;
+  margin-right: 58%;
+  text-align: center;
+}
+
+.formprofile {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  background-color: honeydew;
+  font-size: small;
+  padding: 10px;
+  border-radius: 12px;
+  border: 2px solid #086942;
+  width: 91%;
+
+}
+
+.homelink {
+  display: flex;
+  flex-direction: column;
+}
+
+.editlink {
+  margin-left: 154%;
+  margin-top: -24%;
+}
+
+.rounded {
+  margin-top: -45px;
+  width: 200px;
+  height: 190px;
+  margin-left: -8%;
+  border-radius: 12px;
+  border-color: rgb(5, 142, 37);
+  border-style: solid;
+
+}

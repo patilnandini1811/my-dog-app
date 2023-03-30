@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+  border-style: solid;
+  border-color: green;
+  margin-left: 35%;
+  background-color: honeydew;
+  height: 125%;
+  font-size: large;
+}
+
+btn-primary {
+  margin: 22%;
+}
+
+.edithere {
+  color: #3a3a3a;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: green;
+  background-color: honeydew;
+  margin-left: 40%;
+  margin-top: 5%;
+  margin-right: 33%;
+  text-align: center;
+}
+
+li {
+  display: block;
+}
+
+select {
+  border-radius: 8px;
+  border-style: solid;
+  max-height: max-content;
+}
+
+#description {
+  margin: 2%;
+  margin-left: -1%;
+}
+
+.goback1 {
+  margin-left: 18%;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 15%;
+  margin-top: 0%;
+}

@@ -1,0 +1,107 @@
+.container {
+  border-style: solid;
+  border-color: green;
+  margin-left: 45%;
+  padding: 0%;
+  margin: 5%;
+  background-color: honeydew;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  text-align: left;
+  width: min-content;
+}
+
+.btn {
+  margin-left: 12%;
+  margin-top: 5%
+}
+
+#description {
+  margin: 1%;
+  margin-left: -8%;
+}
+
+
+.heading {
+  flex-direction: row;
+  color: #3a3a3a;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 8px;
+  border-style: solid;
+  border-color: green;
+  background-color: honeydew;
+  margin-left: 9%;
+  margin-top: 4%;
+  margin-right: 73%;
+  text-align: center;
+}
+
+.btn-success {
+  float: right;
+  margin-top: 5%;
+  width: 31%;
+  height: 31px;
+  margin-left: 0%;
+  float: left;
+  float: right;
+  margin-right: 84%;
+  margin-bottom: 1rem;
+  padding: 0;
+
+}
+
+.goback {
+  margin-left: 47%;
+  display: inline;
+  margin-top: 1%;
+  margin-top: 10%;
+}
+
+.Friendlist {
+  border-style: solid;
+  border-color: green;
+  width: 120px;
+}
+
+input {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 15rem;
+  max-width: 100%;
+}
+
+.form1 {
+  flex-direction: column;
+  display: flex;
+  margin-left: 6%;
+
+}
+
+
+.form-label {
+  font: inherit;
+  padding: 0.5rem;
+  width: 20rem;
+  max-width: 100%;
+  margin-top: -55%;
+}
+
+.form-control {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  max-width: 750%;
+}
+
+#exampleFormControlTextarea1 {
+  width: 140px;
+  height: 20%;
+  margin: 2%;
+  margin-left: -1%;
+}
